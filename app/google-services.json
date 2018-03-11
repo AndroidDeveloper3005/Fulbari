@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720009430679",
+    "firebase_url": "https://fulbari-63f7d.firebaseio.com",
+    "project_id": "fulbari-63f7d",
+    "storage_bucket": "fulbari-63f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720009430679:android:ca1293db4dccb1df",
+        "android_client_info": {
+          "package_name": "com.example.himel.fulbari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720009430679-99oi3v7bt26g9bcl0i4knatot31m7sjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himel.fulbari",
+            "certificate_hash": "44b0efc0043ecf343c8b4556c0bb89e021bf248e"
+          }
+        },
+        {
+          "client_id": "720009430679-uthn2jth6e9rg9ml6q6qlr2avsoo2o0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KKw-GtSMtsUIjojdfyNa1jDFZlituYs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720009430679-uthn2jth6e9rg9ml6q6qlr2avsoo2o0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
